@@ -1,5 +1,5 @@
 {
   "ameliaBaseUrl": "https://mccarthy.dev.amelia.com",
-  "domainCode": "mccarthy_dev",
+  "domainCode": "mccarthy_stg",
   "uiBundle": "mccarthy_dev"
 }
